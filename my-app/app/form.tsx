@@ -7,7 +7,7 @@ const Formulary = () => {
                 <label htmlFor="">Name:</label>
             <input className='border w-[100%]' type="text" placeholder='Name'/>
             <label htmlFor="">Email:</label>
-            <input className='border w-[100%]' type="text" placeholder="Email" />
+            <input className='border w-[100%]' type="text" placeholder="E-mail" />
             <label htmlFor="">Phone Number:</label>
             <input className='border w-[100%]' type="number" placeholder="Phone Number" />
             </div>
